@@ -1,0 +1,12 @@
+2022-08-31 01:58:12,386 : INFO : test_formsubmission : ProtoCommerce
+2022-08-31 01:58:12,387 : INFO : test_formsubmission : Entering First Name :Nikhil
+2022-08-31 01:58:12,455 : INFO : test_formsubmission : Entering Email :Nikhil.com
+2022-08-31 01:58:12,504 : INFO : test_formsubmission : Entering Gender :Male
+2022-08-31 01:58:12,649 : INFO : test_formsubmission : ProtoCommerce
+2022-08-31 01:58:12,649 : INFO : test_formsubmission : ProtoCommerce
+2022-08-31 01:58:12,649 : INFO : test_formsubmission : Entering First Name :Alok
+2022-08-31 01:58:12,649 : INFO : test_formsubmission : Entering First Name :Alok
+2022-08-31 01:58:12,699 : INFO : test_formsubmission : Entering Email :Alok.com
+2022-08-31 01:58:12,699 : INFO : test_formsubmission : Entering Email :Alok.com
+2022-08-31 01:58:12,748 : INFO : test_formsubmission : Entering Gender :Male
+2022-08-31 01:58:12,748 : INFO : test_formsubmission : Entering Gender :Male
